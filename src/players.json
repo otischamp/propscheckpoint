@@ -1,5 +1,5 @@
-{
-    "player1":{
+[
+    {
         "name":"Brahim Abdelkader Díaz",
         "team":"Real Madrid",
         "nationality":"Morocco",
@@ -7,7 +7,7 @@
         "age":"24",
         "imgUrl":"diazprofile.png"
     },
-    "player2":{
+    {
         "name":"Azzedine Ounahi",
         "team":"Olympique de Marseille",
         "nationality":"Morocco",
@@ -15,7 +15,7 @@
         "age":"23",
         "imgUrl":"ounahiprofile.png"
     },
-    "player3":{
+    {
         "name":"Achraf Hakimi Mouh",
         "team":"Paris Saint-Germain FC",
         "nationality":"Morocco",
@@ -23,7 +23,7 @@
         "age":"25",
         "imgUrl":"hakimiprofile.png"
     },
-    "player4":{
+    {
         "name":"Hakim Ziyech",
         "team":"Süper Lig club Galatasaray",
         "nationality":"Morocco",
@@ -31,5 +31,4 @@
         "age":"30",
         "imgUrl":"ziyechprofile.png"
     }
-
-}
+]
